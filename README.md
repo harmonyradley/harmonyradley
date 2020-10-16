@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there! 👋
+### iOS Developer 
+
+* Currently an student at Lambda School. A Coding Bootcamp 
+* Some of my interests include creating art, cooking, and being outdoors!
+
+### Skills Include: 
+  - Swift
+  - Xcode 
+  - Objective-C
+  - Core Data  
+  - GraphQL 
 
 <!--
 **harmonyradley/harmonyradley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
