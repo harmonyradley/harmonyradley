@@ -1,7 +1,7 @@
 ### Hi there! 👋
 ### iOS Developer 
 
-* Currently an student at Lambda School. A Coding Bootcamp 
+* Successfully Completed a rigorus online coding bootcamp named Lambda School
 * Some of my interests include creating art, cooking, and being outdoors!
 
 ### Skills Include: 
